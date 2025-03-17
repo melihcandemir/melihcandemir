@@ -24,7 +24,7 @@ I'm a **Jr. FullStack .Net Developer** 💻 passionate about building modern, sc
 - **Visual Studio Code**, **Visual Studio**, **Git**, **GitHub** 🖱️📂
 
 ### Others 🖌️📑
-- **Adobe Illustrator**, **Microsoft Office** 🖍️📋
+- **Adobe Illustrator**, **Jira Software**, **Microsoft Office** 🖍️📋
 
 ---
 
