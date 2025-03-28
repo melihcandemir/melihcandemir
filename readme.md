@@ -8,31 +8,31 @@ I'm a **Jr. FullStack .Net Developer** 💻 passionate about building modern, sc
   <img src="img/Person.jpg" alt="Banner" width="100%" />
 </div>
 
-## 🛠️ Technologies I Use 🔧💡
+## 🛠️ Technologies I Use 🔧
 
-### Programming Languages & Frameworks
-- **C#**, **.Net**, **ASP.Net Core**, **ASP.Net Core MVC** ⚙️💻
-- **Entity Framework** 🗂️📂
+### Programming Languages & Frameworks 💻
+- **C#**, **.Net**, **ASP.Net Core**, **ASP.Net Core MVC** ⚙️
+- **Entity Framework** 🗂️
 
-### Frontend & Design 🎨✨
-- **Bootstrap**, **Tailwind CSS**, **HTML**, **CSS** 🎉🎨
+### Frontend & Design ✨
+- **Bootstrap**, **Tailwind CSS**, **HTML**, **CSS** 🎨
 
-### Databases 🗄️📊
-- **PostgreSQL**, **SQL** 🛢️📈
+### Databases 📊
+- **PostgreSQL**, **MSSql**,  **SQL**  📈🛢️
 
-### Tools & IDEs 🛠️🖥️
-- **Visual Studio Code**, **Visual Studio**, **Git**, **GitHub** 🖱️📂
+### Tools & IDEs 🛠️
+- **Visual Studio Code**, **Visual Studio**, **Git**, **GitHub** 📂
 
-### Others 🖌️📑
-- **Adobe Illustrator**, **Jira Software**, **Microsoft Office** 🖍️📋
+### Others 🖌️
+- **Adobe Illustrator**, **Jira Software**, **Microsoft Office** 🖍️
 
 ---
 
-## 📫 Contact Me 📬📞
+## 📫 Contact Me 📬
 
-Feel free to connect with me and explore my repositories! 🌟✨  
-- **Email:** [melihcanndemir@gmail.com](melihcanndemir@gmail.com) ✉️📧  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/-melihcandemir/) 🔗🌐  
+Feel free to connect with me and explore my repositories! 🌟
+- **Email:** [melihcanndemir@gmail.com](melihcanndemir@gmail.com) ✉️ 
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/-melihcandemir/) 🔗
 
 ---
 
