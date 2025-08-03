@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Melih Can Demir! 🚀✨
+# 👋 Merhaba, Ben Melih Can Demir! 🚀✨
 
-I'm a **Jr. FullStack .Net Developer** 💻 passionate about building modern, scalable, and user-friendly applications. I enjoy solving problems 🧩, learning new technologies 📚, and contributing to the tech community 🌍. 
+**Jr. FullStack .Net Developer** 💻 olarak modern, ölçeklenebilir ve kullanıcı dostu uygulamalar geliştirme konusunda tutkuluyum. Problem çözmeyi 🧩, yeni teknolojiler öğrenmeyi 📚 ve teknoloji topluluğuna katkıda bulunmayı seviyorum 🌍.
 
 ---
 
@@ -8,35 +8,42 @@ I'm a **Jr. FullStack .Net Developer** 💻 passionate about building modern, sc
   <img src="img/Person.jpg" alt="Banner" width="100%" />
 </div>
 
-## 🛠️ Technologies I Use 🔧
+## 🛠️ Kullandığım Teknolojiler 🔧
 
-### Programming Languages & Frameworks 💻
+### Programlama Dilleri & Framework'ler 💻
+
 - **C#**, **.Net**, **ASP.Net Core**, **ASP.Net Core MVC** ⚙️
 - **Entity Framework** 🗂️
 
-### Frontend & Design ✨
+### Frontend & Tasarım ✨
+
 - **Bootstrap**, **Tailwind CSS**, **HTML**, **CSS** 🎨
 
-### Databases 📊
-- **PostgreSQL**, **MSSql**,  **SQL**  📈🛢️
+### Veritabanları 📊
 
-### Tools & IDEs 🛠️
+- **PostgreSQL**, **MSSql**, **SQL** 📈🛢️
+
+### Araçlar & IDE'ler 🛠️
+
 - **Visual Studio Code**, **Visual Studio**, **Git**, **GitHub** 📂
 
-### Others 🖌️
+### Diğerleri 🖌️
+
 - **Adobe Illustrator**, **Jira Software**, **Microsoft Office** 🖍️
 
 ---
 
-## 📫 Contact Me 📬
+## 📫 Benimle İletişime Geçin 📬
 
-Feel free to connect with me and explore my repositories! 🌟
-- **Email:** [melihcanndemir@gmail.com](melihcanndemir@gmail.com) ✉️ 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/-melihcandemir/) 🔗
+Benimle bağlantı kurmaktan ve projelerimi keşfetmekten çekinmeyin! 🌟
+
+- **E-posta:** [melihcanndemir@gmail.com](melihcanndemir@gmail.com) ✉️
+- **LinkedIn:** [LinkedIn Profilim](https://www.linkedin.com/in/-melihcandemir/) 🔗
 
 ---
 
-I love this life 🌟💖
+Bu hayatı seviyorum 🌟💖
+
 <div align="center">
   <img src="img/Manzara.jpg" alt="Profile Photo" width="100%" />
 </div>
