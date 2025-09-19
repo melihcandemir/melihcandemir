@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Melih Can Demir! 🚀✨
 
-**Jr. FullStack .Net Developer** 💻 olarak modern, ölçeklenebilir ve kullanıcı dostu uygulamalar geliştirme konusunda tutkuluyum. Problem çözmeyi 🧩, yeni teknolojiler öğrenmeyi 📚 ve teknoloji topluluğuna katkıda bulunmayı seviyorum 🌍.
+**Jr. FullStack Developer** 💻 olarak modern, ölçeklenebilir ve kullanıcı dostu uygulamalar geliştirme konusunda tutkuluyum. Problem çözmeyi 🧩, yeni teknolojiler öğrenmeyi 📚 ve teknoloji topluluğuna katkıda bulunmayı seviyorum 🌍.
 
 ---
 
@@ -12,12 +12,12 @@
 
 ### Programlama Dilleri & Framework'ler 💻
 
-- **C#**, **.Net**, **ASP.Net Core**, **ASP.Net Core MVC** ⚙️
+- **JavaScript**, **React**, **C#**, **.Net**, **ASP.Net Core**, **ASP.Net Core MVC** ⚙️
 - **Entity Framework** 🗂️
 
 ### Frontend & Tasarım ✨
 
-- **Bootstrap**, **Tailwind CSS**, **HTML**, **CSS** 🎨
+- **Tailwind CSS**, **HTML** 🎨
 
 ### Veritabanları 📊
 
@@ -25,11 +25,11 @@
 
 ### Araçlar & IDE'ler 🛠️
 
-- **Visual Studio Code**, **Visual Studio**, **Git**, **GitHub** 📂
+- **Visual Studio Code**, **Visual Studio**, **Git**, **GitHub**, **Kiro** 📂
 
 ### Diğerleri 🖌️
 
-- **Adobe Illustrator**, **Jira Software**, **Microsoft Office** 🖍️
+- **Supabase**, **Adobe Illustrator**, **Jira Software**, **Microsoft Office** 🖍️
 
 ---
 
